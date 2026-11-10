@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
-import logo from "@/assets/edx3-logo.png";
+import logo from "@/assets/logo-edicobsul.png";
 
 const links = [
   { label: "Início", href: "#hero" },
@@ -31,7 +31,13 @@ const Header = () => {
     >
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-2">
-          <img src={logo} alt="Edicob Sul" className="h-10 w-auto" />
+          <img
+            src={logo}
+            alt="Edicob Sul"
+            className="h-16 w-auto mb-4
+    drop-shadow-[0_0_3px_rgba(255,255,255,0.85)]
+    [filter:drop-shadow(0_0_3px_rgba(255,255,255,0.85))_drop-shadow(0_0_14px_rgba(255,255,255,0.35))]"
+          />
         </a>
 
         {/* Desktop nav */}
