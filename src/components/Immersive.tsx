@@ -35,7 +35,7 @@ const Immersive = () => (
           viewport={{ once: true }}
           className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-2xl"
         >
-          A <span className="text-white font-medium">edX3 Brasil</span> é especialista em coberturas para estacionamentos modernas, 
+          A <span className="text-white font-medium">Edicob Sul</span> é especialista em coberturas para estacionamentos modernas, 
           duráveis e personalizadas para condomínios, empresas e comércios. Unimos engenharia de ponta, mão de obra especializada e 
           materiais de alta qualidade, garantindo segurança, estética superior e valorização imediata 
           com instalação rápida e acabamento profissional.

@@ -4,7 +4,7 @@ import { Award, Cpu, Eye, Zap, Gem, Building2 } from "lucide-react";
 const cards = [
   { 
     title: "Experiência", 
-    desc: "Know-how técnico consolidado desde 2020, com foco em rigor estrutural e perfeição executiva.", 
+    desc: "Know-how técnico consolidado desde 2011, com foco em rigor estrutural e perfeição executiva.", 
     icon: Award 
   },
   { 
@@ -47,7 +47,7 @@ const Diferenciais = () => (
         className="text-center mb-20"
       >
         <h2 className="font-display text-3xl md:text-5xl font-bold mb-6">
-          Por que a <span className="text-primary text-glow-primary">edX3</span>?
+          Por que a <span className="text-primary text-glow-primary">Edicob Sul</span>?
         </h2>
         <div className="w-24 h-1 bg-primary mx-auto rounded-full opacity-50" />
       </motion.div>

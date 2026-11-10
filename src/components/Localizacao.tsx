@@ -29,14 +29,14 @@ const Localizacao = () => (
       >
         <div className="glass rounded-2xl p-8 border-glow text-center">
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3600.190575268156!2d-49.21482650000001!3d-25.532028099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcfb607333a66d%3A0x5b4239a112baca58!2sedX3%20do%20Brasil%20Ltda!5e0!3m2!1spt-BR!2sbr!4v1774883120859!5m2!1spt-BR!2sbr" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3600.190575268156!2d-49.21482650000001!3d-25.532028099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcfb607333a66d%3A0x5b4239a112baca58!2sEdicob Sul%20do%20Brasil%20Ltda!5e0!3m2!1spt-BR!2sbr!4v1774883120859!5m2!1spt-BR!2sbr" 
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen={false}
             referrerPolicy="no-referrer-when-downgrade"
             loading="lazy" 
-            title="Localização edX3 do Brasil"
+            title="Localização Edicob Sul"
             className="mb-6"
           >
           </iframe>

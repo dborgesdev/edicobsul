@@ -13,7 +13,7 @@ const Solutions = () => (
         >
           <img
             src={ambienteImg}
-            alt="Soluções sob medida edx3"
+            alt="Soluções sob medida Edicob Sul"
             className="w-full h-[400px] object-cover transition-transform duration-700 group-hover:scale-105"
             loading="lazy"
             width={1280}

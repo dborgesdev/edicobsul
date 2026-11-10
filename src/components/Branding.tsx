@@ -15,7 +15,7 @@ const Branding = () => (
           <span className="text-primary">tranquilidade</span> e{" "}
           <span className="text-accent">valor</span>."
         </p>
-        <span className="text-muted-foreground font-display text-lg">— edX3 do Brasil</span>
+        <span className="text-muted-foreground font-display text-lg">— Edicob Sul</span>
       </motion.div>
     </div>
   </section>

@@ -31,7 +31,7 @@ const Header = () => {
     >
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-2">
-          <img src={logo} alt="edx3 Brasil" className="h-10 w-auto" />
+          <img src={logo} alt="Edicob Sul" className="h-10 w-auto" />
         </a>
 
         {/* Desktop nav */}
@@ -46,7 +46,7 @@ const Header = () => {
             </a>
           ))}
           <a
-            href="https://wa.me/5541997218927?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
+            href="https://wa.me/5541996351134?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2.5 rounded-lg gradient-cta text-sm font-semibold text-foreground transition-all duration-300 hover:shadow-lg hover:shadow-primary/30 hover:scale-105"
@@ -85,7 +85,7 @@ const Header = () => {
                 </a>
               ))}
               <a
-                href="https://wa.me/5541997218927?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
+                href="https://wa.me/5541996351134?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 rounded-lg gradient-cta text-center font-semibold text-foreground"

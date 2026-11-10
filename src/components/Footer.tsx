@@ -25,8 +25,9 @@ const Footer = () => (
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
         {/* Logo & Institucional */}
         <div>
-          <img src={logo} alt="edx3 Brasil" className="h-10 w-auto mb-4" />
-          <p className="text-white font-medium text-sm mb-2">edX3 do Brasil Ltda</p>
+          <img src={logo} alt="Edicob Sul" className="h-10 w-auto mb-4" />
+          <p className="text-white font-medium text-sm mb-2">Edicob Sul</p>
+          <p className="text-muted-foreground text-xs mb-2">CNPJ: 14.396.389/0001-40 | Desde 2011</p>
           <p className="text-muted-foreground text-xs leading-relaxed">
             Rua Clevelândia, 152<br />
             Silveira da Mota<br />
@@ -79,7 +80,7 @@ const Footer = () => (
               <FacebookSVG />
             </a>
             <a
-              href="https://www.instagram.com/edx3_brasil/"
+              href="https://www.instagram.com/Edicob Sul_brasil/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -88,7 +89,7 @@ const Footer = () => (
               <InstagramSVG />
             </a>
             <a
-              href="https://wa.me/5541997218927?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
+              href="https://wa.me/5541996351134?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-[#25D366] transition-colors"
@@ -101,7 +102,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-muted-foreground">
-        <p>© {new Date().getFullYear()} edX3 do Brasil. Todos os direitos reservados.</p>
+        <p>© {new Date().getFullYear()} Edicob Sul. Todos os direitos reservados.</p>
         <p>
           Desenvolvido por{" "}
           <a href="https://smartlocal.com.br" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">

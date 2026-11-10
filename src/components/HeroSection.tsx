@@ -7,7 +7,7 @@ const HeroSection = () => (
     <div className="absolute inset-0">
       <img
         src={heroImg}
-        alt="Sombreiros premium edx3 Brasil"
+        alt="Sombreiros premium Edicob Sul"
         className="w-full h-full object-cover object-bottom"
         width={1920}
         height={1080}
@@ -47,7 +47,7 @@ const HeroSection = () => (
         </p>
 
         <motion.a
-          href="https://wa.me/5541997218927?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
+          href="https://wa.me/5541996351134?text=Ol%C3%A1%2C%20venho%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}

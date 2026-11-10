@@ -34,7 +34,7 @@ const Comparativo = () => {
           }}
         >
           {/* After (full background) */}
-          <img src={afterImg} alt="Depois - Conforto edx3" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+          <img src={afterImg} alt="Depois - Conforto Edicob Sul" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
           
           {/* Before (clipped) */}
           <div className="absolute inset-0" style={{ clipPath: `inset(0 ${100 - pos}% 0 0)` }}>
@@ -53,7 +53,7 @@ const Comparativo = () => {
             Exposição Total
           </div>
           <div className="absolute top-4 right-4 px-3 py-1 rounded-lg glass text-sm font-semibold text-primary">
-            Conforto edX3
+            Conforto Edicob Sul
           </div>
         </motion.div>
       </div>
