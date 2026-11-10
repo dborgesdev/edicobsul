@@ -36,7 +36,7 @@ const Localizacao = () => (
             allowFullScreen={false}
             referrerPolicy="no-referrer-when-downgrade"
             loading="lazy" 
-            title="Localização Edicob Sul"
+            title="Localização do endereço informado no projeto original"
             className="mb-6"
           >
           </iframe>

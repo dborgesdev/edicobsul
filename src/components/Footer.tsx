@@ -80,7 +80,7 @@ const Footer = () => (
               <FacebookSVG />
             </a>
             <a
-              href="https://www.instagram.com/Edicob Sul_brasil/"
+              href="https://www.instagram.com/edx3_brasil/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
